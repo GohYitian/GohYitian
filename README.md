@@ -22,7 +22,7 @@ I am a fourth-year student in Bachelor of Computer Science (Bioinformatics) With
 - 🏡 I'm from Tangkak, Johor
 - ✍️ Experience: Internship at Fusionex Group
 - 📧 How to reach me:
-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/%20yitian-goh)) https://www.linkedin.com/in/%20yitian-goh
+- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/yitian-goh)) https://www.linkedin.com/in/yitian-goh
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)]([your-gmail-url](yitiangoh@gmail.com)) yitiangoh@gmail.com/ gohyitian@graduate.utm.my
   
 ---
