@@ -17,9 +17,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a fourth-year student in Bachelor of Computer Science (Bioinformatics) With Honours in Universiti Teknologi Malaysia (UTM).
+I am a full-stack developer with experience building scalable website and mobile apps using ReactJs, NodeJs, TypeScript, Flutter and MongoDb.
 
-- 🏡 I'm from Tangkak, Johor
+- 🏡 I'm from Johor
 - ✍️ Experience: Internship at Fusionex Group
 - 📧 How to reach me:
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/yitian-goh)) https://www.linkedin.com/in/yitian-goh
