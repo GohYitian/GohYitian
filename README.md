@@ -20,10 +20,12 @@
 I am a full-stack developer with experience building scalable website and mobile apps using ReactJs, NodeJs, TypeScript, Flutter and MongoDb.
 
 - 🏡 I'm from Johor
-- ✍️ Experience: Internship at Fusionex Group
+- ✍️ Experience:
+- Full stack developer at IOTI Sdn.Bhd. since Sep 2024
+- Web developer Intern at Fusionex Group 
 - 📧 How to reach me:
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/yitian-goh)) https://www.linkedin.com/in/yitian-goh
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)]([your-gmail-url](yitiangoh@gmail.com)) yitiangoh@gmail.com/ gohyitian@graduate.utm.my
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)]([your-gmail-url](yitiangoh@gmail.com)) yitiangoh@gmail.com
   
 ---
 
